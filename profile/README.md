@@ -30,3 +30,4 @@ Site: [deepcore.fun](https://deepcore.fun)
 |---|---|
 | [contracts](https://github.com/deep-core-protocol/contracts) | The Solidity contracts, GPL-2.0-or-later, with tests under both build profiles |
 | [deep-sdk](https://github.com/deep-core-protocol/deep-sdk) | The TypeScript SDK, MIT |
+| [token-list](https://github.com/deep-core-protocol/token-list) | The published token lists, one file per chain |
